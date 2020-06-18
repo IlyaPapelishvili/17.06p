@@ -3,5 +3,5 @@ synchronize:
   - source: sdfgsvd
     exclude:
     - "dihvbs"
-    inclвude:
+    include:
     - "wertyuio"
